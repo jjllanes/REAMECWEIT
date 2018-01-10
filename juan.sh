@@ -1,4 +1,5 @@
-#!/vim/bash
+#
+vim/bash
 
 #echo "Hello World"
 
